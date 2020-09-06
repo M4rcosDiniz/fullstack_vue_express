@@ -1,4 +1,4 @@
-//Framework para gerencimento das rotas e das chamdas da api
+//Framework para gerencimento das rotas e das chamadas da api
 const express = require('express');
 //Faz o parse dos atributos enviados no body da requisição
 const bodyParser = require('body-parser');
